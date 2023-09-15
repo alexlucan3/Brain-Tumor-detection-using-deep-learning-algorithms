@@ -11,7 +11,7 @@ Before data augmentation, the dataset consisted of:
 After data augmentation, now the dataset consists of:
 1085 positive and 980 examples, resulting in 2065 example images.
 
-The original data is in the folders named 'yes' and 'no'. And, the augmented data in the folder named 'augmented data'.
+The original data need to be putted in folders named 'yes' and 'no'. And, the augmented data in the folder named 'augmented data'.
 
 Hope this project may help other peoples trying to learn about using of deep learning in real life problems like brain tumor detection.
 
